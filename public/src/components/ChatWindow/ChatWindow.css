@@ -39,10 +39,18 @@
   width: 100%;
 }
 
-input {
-  width: 90%;
+.Msg {
+  width: 80%;
   border: none;
   border-bottom: 1px solid;
+  height: 30px;
+  font-size: 15px;
+  outline: none;
+
+}
+.DNuser {
+  width: 15%;
+  border: 1px solid;
   height: 30px;
   font-size: 15px;
   outline: none;
